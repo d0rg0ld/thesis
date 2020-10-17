@@ -7,7 +7,7 @@ Interview transcripts:
 
 [Art historian](ah_interview_transcription.rtf)
 
-Design artifacts
+Design artifacts (Can be opened and explored in [Gephi 0.9.2](https://gephi.org/users/download/))
 
 [A3](ulan_gcc_network_A3.gephi)
 
