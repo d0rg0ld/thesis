@@ -24,3 +24,11 @@ Design artifacts (Gephi file format, to be opened and explored in [Gephi 0.9.2](
 [A11b](government_network_A11b.gephi)
 
 [A11c](STEM_network_A11c.gephi )
+
+Regarding artifacts A4 A5 A7 please cite 
+
+D. Goldfarb and D. Merkl, "Visualizing Art Historical Developments Using the Getty ULAN, Wikipedia and Wikidata," 2018 22nd International Conference Information Visualisation (IV), Fisciano, Italy, 2018, pp. 459-466, doi: 10.1109/iV.2018.00086.
+
+For interviews and artifacts A8 A10 A11 please cite
+
+D. Goldfarb, "Uncovering and Comparing Large-Scale Art History Narratives in Biographical Datasets", Doctoral Thesis, Institute of Information Systems Engineering, Vienna University of Technology, 2020.
